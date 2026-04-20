@@ -1,0 +1,11 @@
+Pregunta 1:
+Respuesta : Subir Foto a Red social
+1 : Tomar Foto desde camara 
+2 : guardar foto
+3 : Ir a La app
+4 : Buscar el Destino
+5 : entrar a la opcion de imagenes de la app
+6 : Dar permiso de privacidad
+6 : ingresar la foto 
+7 : Editar foto o hacer encuadro " opcional"
+8 : Compartir Foto 
